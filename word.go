@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	ole "github.com/go-ole/go-ole"
-	"github.com/mattn/go-ole/oleutil"
+	"github.com/go-ole/go-ole/oleutil"
 )
 
 type Word struct {
